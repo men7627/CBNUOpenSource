@@ -1,7 +1,7 @@
 # CBNUOpenSource
 CBNU Open Source Repo
 
-## 참가자 명단
+## List
 * 소현섭
 * 강산
 * 김효건
